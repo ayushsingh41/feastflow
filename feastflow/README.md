@@ -178,4 +178,4 @@ Visit: `http://localhost/feastflow`
 
 ## 👨‍💻 Author
 
-**Tejas** · B.Tech CSE · Sharda University · ApexPlanet Internship Task 4
+**Ayush** · B.Tech CSE · Sharda University · 
